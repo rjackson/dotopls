@@ -1,0 +1,14 @@
+{
+  "name": "dotoinventorybot",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node bot"
+  },
+  "dependencies": {
+    "steam": "https://github.com/seishun/node-steam/tarball/master",
+    "vdf": "*",
+    "deferred": "*",
+    "protobuf": "*"
+  }
+}
